@@ -1,0 +1,18 @@
+# An employee record
+name: Nadeem
+job: DevOps Engineer
+skill: Linux
+employed: True
+foods: 
+ - Apple
+ - Orange
+ - Strawberry
+ - Mango
+languages:
+ perl: Elite
+ python: Elite
+ pascal: Lame
+education: |
+ Inter
+ Bachelors in Computer Sciences
+ Master in Computer Sciences        
